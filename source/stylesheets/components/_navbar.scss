@@ -8,6 +8,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: fixed;
+  width: 100%;
 }
 
 /* Logo */
@@ -42,6 +44,7 @@
 }
 .navbar-wagon-link:hover {
   color: #da552f;
+  font-weight: bold;
   text-decoration: none;
 }
 
